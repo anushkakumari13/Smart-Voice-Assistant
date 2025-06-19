@@ -7,7 +7,7 @@ This project is a simple **Voice Assistant** built using Python. It listens to v
 
 
 ##  Features
-- 🎙Listen to voice commands using the microphone.
+- Listen to voice commands using the microphone.
 - Responds using text-to-speech.
 - Search Wikipedia.
 - Open web browsers (Google, YouTube).
