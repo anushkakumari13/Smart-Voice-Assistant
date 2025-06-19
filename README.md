@@ -17,12 +17,12 @@ This project is a simple **Voice Assistant** built using Python. It listens to v
 
 
 ## Libraries Used
-- `speech_recognition`
-- `pyttsx3`
-- `datetime`
-- `wikipedia`
-- `webbrowser`
-- `os`
+- speech_recognition
+- pyttsx3
+- datetime
+- wikipedia
+- webbrowser
+- os
 
 
 
