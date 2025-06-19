@@ -1,8 +1,7 @@
 # Smart-Voice-Assistant
 
-# 📢 Voice Assistant in Python
 
-## 💡 Project Overview
+## Project Overview
 This project is a simple **Voice Assistant** built using Python. It listens to voice commands from the user, processes them, and performs tasks like searching Wikipedia, opening websites, telling the time, and more. It provides a basic demonstration of speech recognition, text-to-speech, and task automation.
 
 
